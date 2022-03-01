@@ -2,7 +2,7 @@
 
 Projeto Pokedex em Ionic para o LiveCoding da DIO em 23/02 (https://www.youtube.com/watch?v=RIB68YJ6nqM)
 
-![]()
+![](https://github.com/NiksonDiniz/pokedex_ionic/blob/main/assets/pokedex.gif)
 
 1. Instalar o NodeJS (https://nodejs.org/en/download/)
 2. Instalar o CLI do Ionic
